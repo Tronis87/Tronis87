@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <title>Hi there 👋, I am Aleks!</title>
+Hi there 👋, I am Aleks!
 </head>
 
   <body>
