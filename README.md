@@ -2,29 +2,6 @@
 <html>
  <head>
   <title>Hi there 👋, I am Aleks!</title>
-  <style>
-    h1 {
-      animation: rainbow 3s ease-in-out infinite;
-    }
-    @keyframes rainbow {
-      0% {
-        color: purple;
-      }
-      25% {
-        color: orange;
-      }
-      50% {
-        color: yellow;
-      }
-      75% {
-        color: green;
-      }
-      100% {
-        color: blue;
-      }
-    }
-
-  </style>
 </head>
 
   <body>
