@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
- <head>
-Hi there 👋, I am Aleks!
-</head>
-
   <body>
-    <h1>Welcome to my Github repositories!</h1>
+    <h1> Hi there 👋, I am Aleks! Welcome to my Github repositories!</h1>
     
    
 I am software developer and here you will find some of my projects that shows my expertise in software development.
